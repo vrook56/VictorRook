@@ -1,6 +1,6 @@
 # 👋 Victor Rook
 
-### AI & Python Instructor | Moore Norman Technology Center
+### Python & AI Instructor | Moore Norman Technology Center
 
 ---
 
